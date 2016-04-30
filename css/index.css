@@ -1,0 +1,29 @@
+body{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+li.feilds{
+    padding: 1em 0;
+    margin: 0;
+}
+
+li.title{
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.5em;
+    background: chocolate;
+    border-bottom: 1px solid #c5c5c5;
+    border-top: 1px solid white;
+    line-height: 2em;
+    color: white;
+}
+
+.hide{
+    display: none;
+}
